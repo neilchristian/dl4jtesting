@@ -1,0 +1,18 @@
+Elite Hacker Barnaby Jack 'overdosed on drugs'
+A world-renowned hacker, who died in San Francisco in July, overdosed on a mix of heroin, cocaine and other drugs, a coroner's report shows. 
+New Zealand-born Barnaby Jack was found dead in his bed a week before he was scheduled to give a talk at an event. 
+An autopsy revealed that "acute mixed drug intoxication" led to his death, San Francisco's medical examiner said. 
+Mr Jack rose to fame after a 2010 demonstration, in which he hacked a cash machine, making it give out money. 
+The technique was dubbed "Jackpotting". 
+He had also emerged as a leading expert in the weaknesses that could be found in medical technology. 
+In July, the medical examiner had provided no further details into what may have caused the hacker's sudden death. 
+But the autopsy report has now been made available and says Mr Jack had shown "no visible or palpable evidence of trauma". 
+Instead, his physical symptoms indicated an accidental overdose of heroin, cocaine, and prescription drugs. 
+The report said Mr Jack's girlfriend had found him lying in bed unresponsive, with "multiple bottles of beer and champagne in the garbage can". 
+Mr Jack's death occurred shortly before he was due to demonstrate how heart implants could be hacked at the Black Hat security conference in Las Vegas. 
+He had said one technique could kill a man from 30 feet (nine metres) away. 
+Last year, he told the BBC about how he had discovered flaws in widely-used insulin pumps which allowed him to compromise the devices. 
+The hack made it possible to control them and administer a fatal level of insulin, Mr Jack said. 
+"My purpose was not to allow anyone to be harmed by this because it is not easy to reproduce," he told the BBC during an interview in April 2012. 
+"But hopefully it will promote some change in these companies and get some meaningful security in these devices." 
+Mr Jack's expertise and vivid demonstrations of his knowledge at events like Black Hat earned him the respect of many security professionals. 

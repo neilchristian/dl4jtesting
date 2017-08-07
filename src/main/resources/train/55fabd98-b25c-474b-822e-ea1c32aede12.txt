@@ -1,0 +1,25 @@
+US Centcom Twitter account hacked by pro-IS group
+The Twitter and YouTube accounts of the US military command were suspended for a few hours after being hacked by a group claiming to back Islamic State. 
+One message on Centcom's Twitter feed said: "American soldiers, we are coming, watch your back." 
+It was signed by Isis, another name for the Islamic State. Some internal military documents also appeared on the Centcom Twitter feed. 
+Centcom said it was "cyber-vandalism" and not a serious data breach. 
+In a statement, it said there was no operational impact and no classified information was posted. 
+"We are viewing this purely as a case of cyber-vandalism," it said. Later on Monday, its Twitter feed became visible again, although not active. 
+Embarrassingly, the hack happened as President Barack Obama was giving a speech on cyber-security. 
+Reflecting on major breaches like a recent hack of Sony Pictures, Mr Obama said in his speech the US had been reminded of "enormous vulnerabilities for us as a nation and for our economy". 
+His spokesman Josh Earnest said the US is looking into the Centcom hacking. 
+He said they were investigating the extent of the incident, and that there was a significant difference between a large data breach and the hacking of a Twitter account. 
+This is an irritating hack rather than a matter of major security concern, but it will inevitably lead to a review to see if there are any more fundamental vulnerabilities in the US military's public facing web and Twitter accounts. 
+The material posted on the site represents an amateurish and unconvincing attempt to publicise "secrets". Most of the information is hardly secret at all - the postal address at the Pentagon of the Chairman of the US Joint Chiefs of Staff, General Martin Dempsey. 
+A variety of maps and diagrams were also posted by the hackers. Two appeared to be slides from a presentation at the Lincoln Laboratory - a government funded think-tank at the Massachusetts Institute of Technology. 
+They showed maritime defences on the Chinese coast, but not in any great detail. There were also simple maps of North Korea showing population centres, nuclear installations and missile sites. 
+You can find maps showing the same things on the websites of many US think-tanks. 
+An unnamed Pentagon official told Reuters the hacking was an embarrassment but did not appear to be a security threat. 
+And Professor Alan Woodward, from the University of Surrey, said he did not consider the attack to be a major breach of security. 
+"I wouldn't say it's trivial, but it's just a slip," he told the BBC. 
+"Twitter accounts are usually looked after by an individual in an organisation - it's very easy to give away that password. 
+"In terms of if this is a hack into something secret, or sensitive - no, it's not. An individual has made a slight mistake." 
+Subsequent posts on the Centcom Twitter account said: "Pentagon Networks Hacked! China Scenarios" and "Pentagon Networks Hacked. Korean Scenarios." 
+Some of the documents posted appeared to list names and phone numbers of members of the military as well as PowerPoint slides and maps. 
+The Centcom YouTube account was also hacked. 
+American and coalition war planes have been undertaking air strikes against IS in Iraq and Syria. 

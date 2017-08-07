@@ -1,0 +1,24 @@
+Joshua Kaufman's Mac recovered with 'Hidden' app clues
+California police recovered a stolen laptop after a software program sent its owner the suspect's location and photograph taken on the Mac's camera. 
+Joshua Kaufman, an Oakland interaction designer, reported the theft in March. 
+But police only acted on Tuesday after Mr Kaufman's blog on the theft attracted news media attention. 
+Cab driver Muthanna Aldebashi, 27, was charged with felony possession of stolen property. A police spokesman said an initial reported was misfiled. 
+"I'm excited I was able to get it back," Mr Kaufman told the BBC, "very happy and relieved that I don't have to sit and watch someone else use my old computer." 
+On 21 March, during the day when Mr Kaufman was not at home in his Oakland flat, a thief broke into the apartment through a window. 
+Mr Kaufman immediately reported the crime to Oakland police and the officer who took the report noted he said he had tracking software installed, Officer Holly Joshi told the BBC. 
+The software, called Hidden, supplies to the owner the computer's location, photographs taken on the Mac's internal camera and shots of the Mac's screen display. 
+The program immediately began sending Mr Kaufman photographs of a bearded man with shaggy dark hair sleeping on a couch, sitting shirtless on a bed in front of the computer, and driving. 
+"It wasn't really that interesting," he said. "Most of the photos were pretty boring - just some guy staring into a screen or sleeping or watching Youtube videos on his bed." 
+The software also sent Mr Kaufman a screen shot showing the man logging into his own e-mail account - information investigators later used to lure him into an arrest. 
+Mr Kaufman says he handed the evidence to Oakland investigators but did not get a response. Meanwhile, he began blogging about the theft on a site called thisguyhasmymacbook. 
+His experience - and Oakland police's apparent lack of interest in the case, even though Mr Kaufman said he could provide clues - soon attracted attention from the US news media. 
+"People started saying it was a viral campaign from us," Hidden chief Toby De Havilland told the BBC. 
+On Tuesday, a producer with ABC television's Good Morning America news and entertainment programme contacted Officer Joshi to inquire about the case. 
+Ms Joshi contacted investigators and learned Mr Kaufman's initial report had been filed in error with theft reports for which no leads existed to aid the investigation. 
+About three hours after ABC's call, Oakland police arrested Mr Aldebashi, who made "admission statements" indicating he knew the laptop was stolen, Ms Joshi said. 
+Police have not charged Mr Aldebashi with the initial burglary, and Mr Kaufman said he believes Mr Aldebashi bought the stolen laptop on the street. 
+"Law enforcement is always looking at technology as a way to be smarter with capturing criminals and solving crimes," Officer Joshi told the BBC. 
+"And this does represent technology that could be useful for us." 
+Mr Kaufman wrote on his blog that investigators used information he provided - an e-mail address linked to a car service for which Mr Aldebashi was a driver - to lure the suspect into an arrest by pretending to hire a cab. 
+Meanwhile, Mr De Havilland said the notoriety has driven interest in his product. 
+"We've definitely noticed a spike," he said. 

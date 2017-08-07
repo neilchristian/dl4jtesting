@@ -1,0 +1,19 @@
+US defence firm Lockheed Martin hit by cyber-attack
+US defence firm Lockheed Martin says it has come under a significant cyber-attack, which took place last week. 
+Few details were available, but Lockheed said its security team had detected the threat quickly and ensured that none of its programmes had been compromised. 
+The Pentagon said it is working to establish the extent of the breach. 
+Lockheed makes fighter jets, warships and multi-billion dollar weapons systems sold worldwide. 
+Lt Col April Cunningham, speaking for the US defence department, said the impact on the Pentagon was "minimal and we don't expect any adverse effect". 
+Lockheed Martin said in a statement that it detected the attack on 21 May "almost immediately" and took counter-measures. 
+As a result, the company said, "our systems remain secure; no customer, program or employee personal data has been compromised". 
+However, it is still working to restore employee access several days after the attack. 
+Lockheed Martin is the world's biggest aerospace company and makes F-16, F-22 and F-35 fighter jets as well as warships. 
+Four years ago, the firm apparently tightened security after officials revealed hackers had breached Lockheed's high-tech Joint Fighter programme. 
+Josh Shaul, chief technology officer at New York-based database security company Application Security, said other defence contractors will now be assessing their own measures. 
+"I guarantee you every major defence contractor is on double alert this weekend, watching what's going on and making sure they're not the next to fall victim." 
+In Australia, too, the government has warned companies to be extra vigilant of offshore cyber attacks. 
+The advice comes after the outgoing head of the country's biggest oil and gas company said attacks were coming "from everywhere". 
+"It comes from eastern Europe; it comes from Russia. Just don't pick on the Chinese; it's everywhere," Don Voelte, chief executive of Woodside Petroleum was quoted as saying. 
+Australian Attorney-General Robert McClelland singled out resource companies as being targeted. 
+"There is no doubt that cyber-security threats are becoming worse," he told Reuters. 
+"Without talking about specific incidents, there have been a number of reports concerning our resource companies." 

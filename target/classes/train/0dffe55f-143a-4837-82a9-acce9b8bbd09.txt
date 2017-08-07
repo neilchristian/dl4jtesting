@@ -1,0 +1,19 @@
+Target sued by customers over credit card breach
+US retailer Target is being sued by at least 11 customers over a credit card security breach that saw details of more than 40 million cards stolen. 
+The lawsuits, each seeking class-action status, were filed in US courts in recent days and seen by the BBC. 
+Meanwhile, major US banks have moved to limit damages by restricting spending on debit cards. 
+Security researchers said the stolen card numbers had been seen on underground markets. 
+US Senator Chuck Schumer has called for the Consumer Financial Protection Bureau to investigate the breach. 
+Target told the BBC it does not comment on pending litigation. 
+The thieves managed to grab key details for so many cards by getting malware on to the computer systems at the checkout desks in almost 1,800 Target stores in the US. 
+It is still not clear how the hackers managed to get their malware on to the systems. 
+The fraudsters had access to card data read at the tills for almost three weeks, said Target in a statement released after the attack. 
+Complaints against the retailer, seeking unspecified damages, have now been filed in Massachusetts by Amanda Tirado; in Florida by Maria Cruz and Jade Gray; in Oregon by Lisa Purcell; in Washington by Kathi Syvlester; in California by Samantha Wredberg and Jennifer Kirk; in Illinois by Janice McCarter and Veronica Ponce; and in Minnesota, the state where Target is based, by Sarah Horton and in a joint case by 0 and Bryan Barth. 
+In the complaints, customers who shopped at the retailer between 27 November and 15 December argue Target failed to notify them of the breach before it was first reported and did not "maintain reasonable security procedures" to prevent the attack. 
+They argue the "ramifications of [Target's] failure to keep class members' data secure are severe", citing billions of dollars lost each year to identity theft. 
+If the cases are allowed as a class-action, it is believed the potential number of plaintiffs could be in the millions. 
+Meanwhile, JP Morgan Chase said it had lowered daily spending limits to $300 (£183) and daily cash withdrawal limits to $100 on potentially vulnerable cards as a "precaution". 
+Reuters reported that other US banks are also believed to be putting stringent precautions in place that would help to spot if cards were being used fraudulently. In addition, Target said it would offer free credit monitoring for customers affected by fraud. 
+On 20 December, security researcher Brian Krebs said there was evidence that card numbers stolen in the Target attack had shown up on underground markets where such details are traded. 
+Writing on his blog, Mr Krebs said security investigators had first confirmed card details had been stolen from Target by buying a "dump" of credit card numbers and matching them to those known to have been used at stores during the breach. 
+A huge batch of numbers had shown up on one site that traded in good quality dumps, he said, adding that cards from non-US banks used at Target stores were now fetching premium prices. 

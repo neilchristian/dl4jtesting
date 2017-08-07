@@ -1,0 +1,42 @@
+How do you win the US election and how are results reported?
+Technically, on election day Americans are not voting for the presidential candidates themselves, but 'electors', who pledge to vote for a particular candidate. In most cases the electors' names are not on the ballot. 
+In nearly every state, whoever wins the most votes also wins all of that state's electors - who take part in a process known as the 'electoral college'. 
+Each state has a different number of electors based on the number of representatives and senators it has in Congress, which itself is decided by the size of its population. 
+A large, populous state like California has 55 electors, whereas a large, sparsely populated state such as Montana has only three. 
+To win the election, a candidate must win an absolute majority of electors. There are 538 available in total, so 270 are needed to win. 
+The number of electors - or electoral college votes - won so far are the large numbers for each candidate shown in the bars at the top of the BBC's results pages. 
+The process by which electors are chosen varies state by state. 
+The electors meet in their state capitals on the Monday after the second Wednesday in December and - almost always - cast their ballots according to their state's popular vote result. 
+The results are certified and sent to Washington. 
+The new president is inaugurated in January. 
+The presidential race is usually decided in a few states which switch allegiance from election to election. 
+These are sometimes called battleground or swing states. 
+The swings are often down to changing demographics, or personal factors such as a candidate coming from that state or region. 
+Capturing the electoral votes of just one or two of these states can be enough to tip a candidate over the 270 needed to win. 
+The BBC reports 'projections' made by the ABC news network. 
+These are projections of which candidate has won that state's electors and subsequent electoral college votes. The projections are based on exit polls and/or partial results. 
+For races that are not very close, ABC, along with other US networks, are likely to project a winner as soon as the polls close, based on exit poll data. 
+For closer races, the news networks will wait until there is more actual vote data. It can take hours or even all night. 
+When a projection is made by ABC, our results desk in Washington will update the BBC's electoral college vote tally for each candidate. 
+Result will be described as "projected" until enough votes have been counted to know for certain. 
+All other election data, including popular votes and Congressional results, is provided by the Associated Press (AP). 
+The BBC receives this information from an electronic feed and uses it to compile running totals of popular votes state by state and nationwide. 
+AP is the sole organisation responsible for providing results for the major American media networks. 
+The information they provide will form the basis for election results, but different broadcasters may decide to interpret partial results in different ways. 
+If a projection is not immediate, it does not mean it is too close to call, rather it may simply be too early to call because the networks have insufficient data. 
+Yes, particularly if the election is very close. 
+Most memorably the major US networks, including Fox, CNN, NBC, CBS, and ABC, said Al Gore would win Florida in 2000, only to retract that and then say George W Bush won it, and then to retract that as the result was under dispute. 
+The presidency eventually went to Mr Bush. 
+If both candidates end up with 269 electoral votes each, Congress decides who becomes president. 
+The 435 member House of Representatives votes on who becomes president, while the 100-seat Senate decides the vice-president. 
+The Republicans currently hold a majority in both the Senate and House. 
+The same process is followed if, as also theoretically possible, neither candidate gets a 270-vote majority. 
+Exit polls are surveys of voters, gathered after they have voted. They are used in two main ways. 
+They can help predict the outcome of an election before all the votes are counted, and they may also provide information on demographics. For example, they could show which candidate appealed most to women, or who got the most support from the Hispanic community. 
+Washington DC, or the District of Columbia, is not a state, but it does receive three electoral college votes. 
+DC is able to vote for the president but it does not have any congressional members of its own. 
+Unlike other states, Maine and Nebraska can split their electoral votes among the candidates. 
+Both states give two votes to the winner of the state-wide popular vote. The remaining votes are awarded to the candidate who has won most votes in each congressional district within the state. 
+Nebraska has three congressional districts and five electoral college votes, while Maine has two congressional districts and four electoral college votes. 
+In practice this has only happened once. 
+In 2008 Barack Obama was awarded one electoral vote in Nebraska after defeating John McCain in the 2nd congressional district. 

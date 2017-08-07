@@ -1,0 +1,9 @@
+'Anonymous' hackers hit US security firm Stratfor
+The activist hacker group Anonymous says it has stolen thousands of emails, passwords and credit card details from a US-based security think tank. 
+The hackers claim they were able to obtain the information because the company, Stratfor, did not encrypt it. 
+They say Stratfor's clients include the US defence department, law enforcement agencies and media organisations. 
+The Austin-based company says it has now suspended the operation on its servers and email. 
+An alleged member of Anonymous posted an online message, claiming that the group had used Stratfor clients' credit card details to make "over a million dollars" in donations to different charities. 
+Stratfor later announced that it would keep its email and servers suspended for some time. 
+It also said the disclosure was "merely a list of some of the members that have purchased our publications and does not comprise a list of individuals or entities that have a relationship with Stratfor". 
+Anonymous has previously claimed responsibility for cyber attacks on financial institutions seen as enemies of the whistleblowing website Wikileaks. 

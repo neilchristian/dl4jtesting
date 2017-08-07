@@ -1,0 +1,20 @@
+US Pentagon to treat cyber-attacks as 'acts of war'
+The US is set to publish plans that will categorise cyber-attacks as acts of war, the Pentagon says. 
+In future, a US president could consider economic sanctions, cyber-retaliation or a military strike if key US computer systems were attacked, officials have said recently. 
+The planning was given added urgency by a cyber-attack last month on the defence contractor, Lockheed Martin. 
+A new report from the Pentagon is due out in a matter of weeks. 
+"A response to a cyber-incident or attack on the US would not necessarily be a cyber-response. All appropriate options would be on the table," Pentagon spokesman Col Dave Lapan told reporters on Tuesday. 
+Col Lapan confirmed the Pentagon was drawing up a cyber defence strategy, which would be ready in two to three weeks. 
+Cyber-attacks from foreign nations that threaten widespread US civilian casualties, like cutting off power supplies or shutting down emergency-responder networks, could be treated as an act of aggression under the new policy. 
+But the plan does not mention how the US may respond to cyber-attackers, such as terrorists, who are not acting for a nation state. 
+The Pentagon's planning follows an international strategy statement on cyber-security, issued by the White House on 16 May. 
+The US would "respond to hostile acts in cyberspace as we would to any other threat to our country", stated the White House in plain terms. 
+"We reserve the right to use all necessary means - diplomatic, informational, military, and economic - as appropriate and consistent with applicable international law, in order to defend our nation, our allies, our partners and our interests." 
+The Wall Street Journal quoted a military official as saying: "If you shut down our power grid, maybe we will put a missile down one of your smokestacks." 
+White House officials said consideration of a military response to a cyber-attack would constitute a "last resort", after other efforts to deter an attack had failed, the New York Times newspaper reported. 
+One of the difficulties strategists are grappling with is how to track down reliably the cyber-attackers who deliberately obscure the origin of their incursions. 
+The sophistication of hackers and frequency of the attacks came back into focus after an attack on arms-maker Lockheed Martin on 21 May. 
+Lockheed said the "tenacious" cyber-attack on its network was part of a pattern of attacks on it from around the world. 
+The worst cyber-attack against the US military occurred in 2008, when malicious software on a flash drive commandeered computers at US Central Command. 
+The US defence department estimates that more than 100 foreign intelligence organizations have attempted to break into American networks. 
+The US is also accused of using cyber warfare against other nations. In 2010 Iran accused the US of helping to develop Stuxnet, a software worm aimed at controlling systems in Iranian nuclear plants. 

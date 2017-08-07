@@ -1,0 +1,14 @@
+Facebook was targeted by 'sophisticated' hackers
+Facebook has revealed it was the target of a "sophisticated attack" by hackers last month, but found no evidence any user data had been compromised. 
+The US-based social network said that the attack occurred when employees visited a mobile developer website "that was compromised". 
+Facebook said in a blog post that it was not the only company to have been attacked in this way. 
+More than one billion people use Facebook worldwide. 
+"Last month, Facebook security discovered that our systems had been targeted in a sophisticated attack," the California-based company said. 
+"The attack occurred when a handful of employees visited a mobile developer website that was compromised." 
+Malware was downloaded on to its employees' laptops, the firm said, adding: "As soon as we discovered the presence of the malware, we remediated all infected machines, informed law enforcement, and began a significant investigation that continues to this day." 
+"We have no evidence that Facebook user data was compromised in this attack," Facebook said in its blog post. 
+The firm went on to say that it was "not alone in this attack". 
+"It is clear that others were attacked and infiltrated recently as well. As one of the first companies to discover this malware, we immediately took steps to start sharing details about the infiltration with the other companies and entities that were affected," Facebook said. 
+This is the latest attack by apparently sophisticated hackers targeting high-profile sites. 
+Twitter said earlier this month that the theft of 250,000 users' passwords, as well as usernames, emails and other data, was "not the work of amateurs". 
+The New York Times, Washington Post and Wall Street Journal have all accused China of "persistently" hacking into their security systems - accusations China denies. 

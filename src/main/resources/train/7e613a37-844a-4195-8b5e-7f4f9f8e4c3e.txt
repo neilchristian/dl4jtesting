@@ -1,0 +1,32 @@
+Who, what, why: What can you learn from people's phone records?
+The National Security Agency has been tracking the phone calls of millions of Americans. So what can they learn about people using this information? 
+Verizon has been handing over records of their customers to the National Security Agency (NSA). 
+In response, some customers are checking their Call History screens. They are trying to sort out who has called them and when. 
+They are also wondering what the government can find out about them? 
+The Guardian article is based on a top-secret court order. The court order states that Verizon has to relinquish information that reveals approximately where calls are made, as well as how long the calls last and the phone numbers of both parties on the line. 
+It is unclear whether text messages are included. 
+In addition, officials will not examine the content of the calls - or what people are talking about on the phone. 
+"The order reprinted in the article does not allow the government to listen in on anyone's telephone calls," a senior government official explained. 
+The content of phone conversations - what people say to each other when they are on the phone - is protected by the Fourth Amendment of the US Constitution, which forbids unreasonable searches. 
+But if information is shared with a third party, such as a phone company, it is fair game, says Robert Chesney, a University of Texas School of Law professor who specialises in national security. 
+That means that information about phone calls - such as their timing and duration - can be scooped up by government officials. 
+NSA officials could (at least in theory) determine the kinds of businesses that an individual calls - and how often. These officials could also develop a picture of an individual's daily life, based on their phone activity. 
+It is unlikely that analysts will examine data from individuals, though. The analysts are instead likely to look at the information in a broad way, studying the data to see if they can find patterns of phone calls in a geographic area or during a specific time frame. 
+The collection of this information is legal. It falls under the 2001 Patriot Act, which was written to help prevent another terrorist attack. 
+Government officials believe that the collection of information from Americans - even personal data such as phone calls - is a useful tool. 
+"Getting phone information from phone companies - I wouldn't say it's routine, but it's done frequently during investigations," says Richard Wolf, a spokesman for the Federal Bureau of Investigation, in Baltimore. 
+"This programme was used to stop a terrorist attack in the US," said Mike Rogers, chairman of the House intelligence committee, describing the NSA activities. "We know that." 
+Stephen Saltzburg, a law professor at George Washington University in Washington DC, says that officials can use the information from phone records to detect patterns of behaviour. 
+These patterns could help show where terrorists may be hiding out - and reveal if they are planning an attack. 
+NSA officials may, for example, could look at phone calls from people in the US to individuals in Yemen and Pakistan, Saltzburg explains, naming two countries that counterterrorism officials have paid close attention to in recent years. 
+US-directed drone strikes have killed dozens of terrorists in these regions under the Obama administration. 
+Experts say that information gleaned from phone records could help in counterterrorism efforts. 
+"You've got to believe that there is a telephone list that's like a no-fly list," Saltzburg says. In other words, officials may be looking for certain kinds of phone numbers. 
+"They have very sophisticated software and have probably worked out ways to identify patterns," he says. 
+Moreover, Saltzburg says, US analysts may be working with intelligence agencies in Saudi Arabia and in other countries to see if they can track down terrorists through the phone records. 
+Still, most of the information that is collected is probably not necessary. 
+"No-one would believe that they are identifying a high percentage of conversations that involve a threat to the US," says Saltzburg. "But even a small percentage can be helpful." 
+Despite the claims of officials that the programme is an effective way to fight terrorists, some people are unconvinced. 
+"Many people get alarmed if they think the government is keeping track of phone numbers - there is the fear of Big Brother," says Saltzburg. "In truth the government doesn't have the resources to act that way." 
+And many people - like Saltzburg - are taking the news of the NSA programme in stride. When a journalist asks the best way to reach him, for example, he rattles off a number. 
+"That's my cell phone," Saltzburg says, "and you can give it to the government, if you want." 

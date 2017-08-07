@@ -1,0 +1,25 @@
+Report: NSA 'collected 200m texts per day'
+The US National Security Agency (NSA) has collected and stored almost 200 million text messages a day from around the world, UK media report. 
+The NSA extracts and stores data from the SMS messages, and UK spies have had access to some of the information, the Guardian and Channel 4 News say. 
+The reporting is based on leaks by ex-NSA contractor Edward Snowden and comes ahead of a key US policy announcement. 
+The NSA told the BBC the programme stored "lawfully collected SMS data". 
+"The implication that NSA's collection is arbitrary and unconstrained is false," the NSA said. 
+President Barack Obama is set on Friday to announce changes to the US electronic surveillance programmes, based in part on a review of NSA activities undertaken this autumn by a White House panel. 
+On Thursday, the White House said Mr Obama had briefed UK Prime Minister David Cameron on the review. 
+The documents also reveal the NSA's UK counterpart GCHQ had searched the NSA's database for information regarding people in the UK, the Guardian reports. 
+In a statement to the BBC, GCHQ said all of its work was "carried out in accordance with the strict legal and policy framework". 
+The programme, Dishfire, analyses SMS messages to extract information including contacts from missed call alerts, location from roaming and travel alerts, financial information from bank alerts and payments and names from electronic business cards, according to the report. 
+Through the vast database, which was in use at least as late as 2012, the NSA gained information on those who were not specifically targeted or under suspicion, the report says. 
+The NSA told the BBC its activities were "focused and specifically deployed against - and only against - valid foreign intelligence targets in response to intelligence requirements". 
+While acknowledging the SMS data of US residents may be "incidentally collected", the NSA added "privacy protections for US persons exist across the entire process". 
+"In addition, NSA actively works to remove extraneous data, to include that of innocent foreign citizens, as early as possible in the process." 
+The Guardian and Channel 4 also reported on a GCHQ document on the Dishfire programme that states it "collects pretty much everything it can" and outlines how the GCHQ analysts are able to search the database, with certain restrictions. 
+The GCHQ statement said: "All of GCHQ's work is carried out in accordance with the strict legal and policy framework which ensures that our activities are authorised, necessary and proportionate and that there is rigorous oversight." 
+Mr Snowden, a former contractor with the NSA, has been charged in the US with espionage and is currently a fugitive in Russia. 
+Last month, a US panel gave President Barack Obama dozens of recommendations for ways to change US electronic surveillance programmes. 
+On Friday, Mr Obama is expected to outline his response to those suggestions as well as his own conversations with a variety of US groups concerned with spying, in a speech at the justice department. 
+He is expected to support the creation of a public advocate to argue in front of the Foreign Intelligence Surveillance Court, a secretive bench that approves the bulk records collections, according to details leaked to US media by the White House. 
+Mr Obama is also expected to extend some privacy protections to foreigners, including more oversight on how the US monitors foreign leaders, and limit how long phone information is kept. 
+But he is not expected to take the bulk phone collection out of the hands of the NSA, as the panel recommended, instead leaving that question to Congress. 
+Civil rights and privacy groups were wary ahead of the speech. 
+"While we welcome the president's acknowledgement that reforms must be made, we warn the president not to expect thunderous applause for cosmetic reforms,'' David Segal of Demand Progress told the Associated Press news agency. 

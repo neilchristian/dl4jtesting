@@ -1,0 +1,15 @@
+US House passes bill on NSA bulk data sweep
+The first legislation aimed at ending the National Security Agency's bulk collection of US phone records has been passed by the House of Representatives. 
+The USA Freedom Act would mean that kind of data remains largely in the hands of phone companies. 
+Despite some fears the White House-backed bill had been diluted, it passed through the House by 303 votes to 120, and now goes to the Senate. 
+There was anger when former NSA analyst Edward Snowden revealed the practice. 
+This bill would bring to an end the sweeping practice of collecting the "to and from" records of nearly every American landline telephone call, in an attempt to search the data for connections to terror plots abroad. 
+Phone companies will not be required to hold records for any longer than they already do, which varies by carrier. 
+If the NSA wants certain records because they believe they shed light on terror plots, they can make a request using a judicial order. 
+Many Republicans and Democrats who voted for the measure wanted tougher provisions, and there was anger that the need for an independent public advocate on the secret intelligence court that oversees the NSA was dropped from the bill. 
+Other provisions that did not make the one that passed the House included annual public reports on the number of individuals targeted and biannual reports on the number of court orders requested. 
+Democrat Jan Schakowsky said the compromise measure was significantly "watered down" but added: "We must not let the perfect be the enemy of the good." 
+Supporters of the bill said it protected the function of the programme, which had saved lives around the world. 
+But privacy and civil liberties activists condemned the measure, saying it had been fatally undermined by compromise. 
+"This legislation was designed to prohibit bulk collection, but has been made so weak that it fails to adequately protect against mass, untargeted collection of Americans' private information," said Nuala O'Connor, president and chief executive of the Center for Democracy and Technology. 
+Technology companies such as Google and Facebook also withdrew their support, saying they were concerned the language of the bill could allow bulk collection of internet data. 

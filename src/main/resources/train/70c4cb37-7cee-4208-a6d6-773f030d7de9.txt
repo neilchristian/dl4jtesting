@@ -1,0 +1,26 @@
+US privacy watchdog advises NSA spying is illegal
+The bulk collection of phone call data by US intelligence agencies is illegal and has had only "minimal" benefits in preventing terrorism, an independent US privacy watchdog has ruled. 
+The Privacy and Civil Liberties Oversight Board advised by a 3-2 majority that the programme should end. 
+In a major speech last week, President Barack Obama said he was ordering curbs on the use of such mass data. 
+But he said the US must continue collecting data to prevent attacks. 
+The report from the PCLOB is the latest of several reviews of the National Security Agency's (NSA) mass surveillance programme, the details of which caused widespread anger after they were leaked by Edward Snowden. 
+Washington has argued it is lawful to collect information on phone calls - known as metadata - under a section of the George W Bush-era Patriot Act which gives the FBI the power to demand from businesses information deemed relevant to their investigations. 
+However, three of the five panel members concluded that the NSA spying programme "lacks a viable legal foundation" under the Patriot Act. 
+It "represents an unsustainable attempt to shoehorn a pre-existing surveillance programme into the text of a statute with which it is not compatible", they said. 
+The programme also raised constitutional concerns, including "serious threats to privacy and civil liberties as a policy matter, and has shown only limited value". 
+"As a result, the board recommends that the government end the programme," said the report. 
+However two panel members - both lawyers from the Bush administration - strongly dissented, saying the issue of legality should be left to the courts to decide. 
+One, Rachel Brand, also argued that declaring the process illegal could affect the morale of intelligence agencies and make them overly cautious. 
+But all members agreed that data should be deleted sooner, and access to it tightened. 
+The report also concluded that the daily collection of phone records was ineffective. 
+"We have not identified a single instance involving a threat to the United States in which the program made a concrete difference in the outcome of a counterterrorism investigation,'' it said. 
+"We are aware of no instance in which the program directly contributed to the discovery of a previously unknown terrorist plot or the disruption of a terrorist attack.'' 
+The independent bipartisan panel is charged with analysing the government's anti-terror measures and balancing them against protection of civil liberties. It briefed Mr Obama on its key findings before his speech last week. 
+The panel's advisory report is the latest of several reviews of the legality and constitutionality of the NSA surveillance programme. 
+In December, a federal judge ruled the programme was "likely unconstitutional" as it violated the right to protection from unreasonable searches. However a week later another federal judge ruled the opposite, saying it was a "counter-punch" against al-Qaeda. 
+Also in December another White House panel, the Review Group on Intelligence and Communications Technology, recommended significant curbs on surveillance and more transparency at the FISC. 
+President Obama acted on some of those recommendations in his much-anticipated speech last week, in which he acknowledged "the potential for abuse", and said he was ending the system "as it currently exists". 
+But he defended the work of US intelligence and said bulk data collection would continue as it had prevented terror attacks. 
+He said he had asked the attorney general and the intelligence community to draw up plans for metadata to be held by a third party, with the NSA requiring legal permission to access them. He said he had also limited the chain of calls the NSA could track. 
+Mr Obama said the US would stop monitoring the personal communications of foreign allies and create a panel of independent privacy advocates to sit on the FISC. 
+Civil liberties groups have said the changes do not go far enough in protecting the privacy of individuals. 

@@ -1,0 +1,37 @@
+Edward Snowden was NSA Prism leak source - Guardian
+A former CIA technical worker has been identified by the UK's Guardian newspaper as the source of leaks about US surveillance programmes. 
+Edward Snowden, 29, is described by the paper as an ex-CIA technical assistant, currently employed by defence contractor Booz Allen Hamilton. 
+The Guardian said his identity was being revealed at his own request. 
+The recent revelations are that US agencies gathered millions of phone records and monitored internet data. 
+A spokesman for the Office of the Director of National Intelligence said the matter had now been referred to the Department of Justice as a criminal matter. 
+The Guardian quotes Mr Snowden as saying he flew to Hong Kong on 20 May, where he holed himself up in a hotel. 
+He told the paper that the extent of US surveillance was "horrifying", adding: "We can plant bugs in machines. Once you go on the network, I can identify your machine. You will never be safe whatever protections you put in place." 
+He added: "I don't want to live in a society that does these sort of things… I do not want to live in a world where everything I do and say is recorded." 
+Mr Snowden said he did not believe he had committed a crime: "We have seen enough criminality on the part of government. It is hypocritical to make this allegation against me." 
+Asked what he thought would happen to him, he replied: "Nothing good." 
+Mr Snowden said he accepted he could end up in jail. "If they want to get you, over time they will," he said. 
+He said he also feared the US authorities would "act aggressively against anyone who has known me. That keeps me up at night". 
+Mr Snowden said he had gone to Hong Kong because of its "strong tradition of free speech". 
+Hong Kong signed an extradition treaty with the US shortly before the territory returned to Chinese sovereignty in 1997. 
+However, Beijing can block any extradition if it believes it affects national defence or foreign policy issues. 
+Mr Snowden has expressed an interest in seeking asylum in Iceland. 
+However, Hong Kong's South China Morning Post quoted Iceland's ambassador to China as saying that "according to Icelandic law a person can only submit such an application once he/she is in Iceland". 
+In a statement, Booz Allen Hamilton confirmed Mr Snowden had been an employee for less than three months. 
+"If accurate, this action represents a grave violation of the code of conduct and core values of our firm," the statement said. 
+The first of the leaks came out on Wednesday night, when the Guardian reported a US secret court had ordered phone company Verizon to hand over to the National Security Agency (NSA) millions of records on telephone call "metadata". 
+The metadata include the numbers of both phones on a call, its duration, time, date and location (for mobiles, determined by which mobile signal towers relayed the call or text). 
+That report was followed by revelations in both the Washington Post and Guardian that the NSA tapped directly into the servers of nine internet firms including Facebook, Google, Microsoft and Yahoo to track online communication in a programme known as Prism. 
+All the internet companies deny giving the US government access to their servers. 
+Prism is said to give the NSA and FBI (Federal Bureau of Investigation) access to emails, web chats and other communications directly from the servers of major US internet companies. 
+The data are used to track foreign nationals suspected of terrorism or spying. The NSA is also collecting the telephone records of American customers, but not recording the content of their calls. 
+On Saturday, US director of national intelligence James Clapper called the leaks "literally gut-wrenching". 
+"I hope we're able to track down whoever's doing this, because it is extremely damaging to, and it affects the safety and security of this country," he told NBC News on Saturday. 
+Prism was reportedly established in 2007 in order to provide in-depth surveillance on live communications and stored information on foreigners overseas. 
+The NSA has filed a criminal report with the US Justice Department over the leaks. 
+The content of phone conversations - what people say to each other when they are on the phone - is protected by the Fourth Amendment to the US Constitution, which forbids unreasonable searches. 
+However, information shared with a third party, such as phone companies, is not out of bounds. 
+That means that data about phone calls - such as their timing and duration - can be scooped up by government officials. 
+Mr Clapper's office issued a statement on Saturday, saying all the information gathered under Prism was obtained with the approval of the secret Foreign Intelligence Surveillance Act Court (Fisa). 
+Prism was authorised under changes to US surveillance laws passed under President George W Bush and renewed last year under Barack Obama. 
+On Friday, Mr Obama defended the surveillance programmes as a "modest encroachment" on privacy, necessary to protect the US from terrorist attacks. 
+"Nobody is listening to your telephone calls. That's not what this program is about," he said, emphasising that the programmes were authorised by Congress. 
